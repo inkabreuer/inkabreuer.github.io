@@ -34,7 +34,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/img/path.jpg" # Default image for sharing
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
