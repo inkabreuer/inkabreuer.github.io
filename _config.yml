@@ -120,7 +120,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Inka,Breuer,inkabreuer,Inkabreuer"
 
 ######################################
 # --- Colours / background image --- #
@@ -143,8 +143,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/giants_causeway.jpg"
+footer-img: "/assets/img/giants_causeway.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
