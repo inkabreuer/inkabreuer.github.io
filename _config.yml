@@ -29,12 +29,6 @@ navbar-links:
 ################
 # --- Logo --- #
 ################
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "/assets/img/path.jpg" # Default image for sharing
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -149,7 +143,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
